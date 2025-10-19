@@ -1,3 +1,5 @@
+Note :   To add new cities, modify the `app.js` file.  Locate the `cities` array and add your desired city name and value.
+
 # App Interface
 
 
