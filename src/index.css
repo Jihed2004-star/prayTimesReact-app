@@ -67,3 +67,27 @@
   border-radius: 5px;
   border: 1px solid #ECD5BC;
 }
+@media(max-width:600px){
+  *{
+    width: 300px;
+  }
+
+.App{
+  padding: 50px;
+  min-height: 180vh;
+  min-width: 88vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.App .container{
+  width: 480px;
+
+}
+.top_sect h3{
+  margin-top: 10px;
+}
+
+
+}
