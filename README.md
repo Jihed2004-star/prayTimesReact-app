@@ -1,3 +1,11 @@
+# App Interface
+
+
+<img width="1579" height="733" alt="Screenshot 2025-10-19 180107" src="https://github.com/user-attachments/assets/cb3929bd-72b3-41b2-98ab-e38bb0686f5d" />
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
