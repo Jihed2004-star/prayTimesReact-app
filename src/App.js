@@ -6,7 +6,7 @@ function App() {
 
   const [prayerTimes, setPrayerTimes] = useState({});
   const [todayDate, setTodayDate] = useState("");
-  const [city, setCity] = useState("Gabes");
+  const [city, setCity] = useState("Msaken");
   const cities=[
     {name:"Msaken",value:"Msaken"},
     {name:"Gabes",value:"Gabes"},
